@@ -73,12 +73,9 @@ A technique for managing your state- and configuration-related global values.
 
 With the advent of several changes in recent versions, a specific variation on the Global Variables general technique becomes attractive: Global Configuration.
 
-@ul
+@box[bg-pink box-padding fragment](Custom Functions for everyone)
 
- - Custom Functions for everyone
- - Native JSON
-
-@ulend
+@box[bg-pink box-padding fragment](Native JSON)
 
 ---
 
