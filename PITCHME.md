@@ -86,5 +86,5 @@ With the advent of several changes in recent versions, a specific variation on t
 
 @box[bg-green text-white box-padding fragment](Concept: Pack all your global state and configuration data into one data object stored in _one_ global variable.)
 
-@box[bg-orange text-white box-padding fragment](Data Object: JSON)
-@box[bg-orange text-white box-padding fragment](Ease of Use: Custom Functions)
+@box[bg-pink box-padding fragment](Data Object: JSON)
+@box[bg-pink box-padding fragment](Ease of Use: Custom Functions)
