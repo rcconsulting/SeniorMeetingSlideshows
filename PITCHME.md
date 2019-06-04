@@ -15,17 +15,13 @@ A technique for managing your state- and configuration-related global values.
 +++
 
 ### Global Fields
-#### Pros:
-@ol
+@box[fragment](Pros#
 - Can maintain state on a local file.
 - Useful for Container UI.
-+++
-### Global Fields
-#### Cons:
-@ol
+)
+@box[fragment](Cons#
 - Clutter up your database
-@olend
-
+)
 +++
 
 ### Session Records
