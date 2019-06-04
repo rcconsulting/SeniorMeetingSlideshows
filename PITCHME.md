@@ -112,6 +112,16 @@ With the advent of several changes in recent versions, a specific variation on t
 
 ---?gist=steveAllen0112/eb82216c718e84070646b368055686bc&title=gc.get%20(%20path%20)
 
++++
+
+### Get Them
+
+@ul
+- @gitlink[Gist (set)](steveAllen0112/162c3178ee61468c707b7bd120b90a4b)
+- @gitlink[Gist (get)](steveAllen0112/eb82216c718e84070646b368055686bc)
+- @gitlink[Clip Manager Collection](steveAllen0112/filemaker-snippets)
+@ulend
+
 ---
 
 # Example Time
