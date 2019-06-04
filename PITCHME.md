@@ -108,7 +108,7 @@ With the advent of several changes in recent versions, a specific variation on t
 
 ### The Custom Functions
 
----?gist=steveAllen0112/162c3178ee61468c707b7bd120b90a4b&title=gc.set%20(%20path%20%3B%20value%20%3B%20text%20)
+---?gist=steveAllen0112/cb17a59aa530c7668263c9a6cc278045&title=gc.set%20(%20path%20%3B%20value%20%3B%20text%20)
 
 ---
 
