@@ -71,7 +71,7 @@ A technique for managing your state- and configuration-related global values.
 
 ### A New Tool: Global Config
 
-@box(With the advent of several changes in recent versions, a specific variation on the Global Variables general technique becomes attractive: Global Configuration.)
+With the advent of several changes in recent versions, a specific variation on the Global Variables general technique becomes attractive: Global Configuration.
 
 @ul
 
