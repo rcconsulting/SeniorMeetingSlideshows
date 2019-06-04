@@ -88,3 +88,11 @@ With the advent of several changes in recent versions, a specific variation on t
 
 @box[bg-pink box-padding fragment](Data Object: JSON)
 @box[bg-pink box-padding fragment](Ease of Use: Custom Functions)
+
+---
+
+### Use Cases
+
+@box[bg-green text-white box-padding fragment](Save & Restore State#If you need to quickly save the entire state data all at once.)
+@box[bg-green text-white box-padding fragment](Debug Report#Often you don't have a long time!)
+@box[bg-green text-white box-badding fragment](Developer Efficiency#You don't have to remember everything.  And you can share. :) )
