@@ -8,9 +8,9 @@ A technique for managing your state- and configuration-related global values.
 
 ### Historical Methods
 
-@box[fragment](Global Fields)
-@box[fragment](Session Records)
-@box[fragment](Global Variables (Vanilla))
+@box[bg-orange text-white box-padding fragment](Global Fields)
+@box[bg-orange text-white box-padding fragment](Session Records)
+@box[bg-orange text-white box-padding fragment](Global Variables (Vanilla))
 
 ---
 
@@ -20,13 +20,13 @@ A technique for managing your state- and configuration-related global values.
 
 @snap[west span-33]
 #### Pros:
-@box[fragment](Can maintain state on a local file.)
-@box[fragment](Useful for Container UI.)
+@box[bg-green text-white box-padding fragment](Can maintain state on a local file.)
+@box[bg-green text-white box-padding fragment](Useful for Container UI.)
 @snapend
 
 @snap[east span-33]
 #### Cons:
-@box[fragment](Clutter up your database)
+@box[bg-orange text-white box-padding fragment](Clutter up your database)
 @snapend
 
 ---
@@ -37,13 +37,13 @@ A technique for managing your state- and configuration-related global values.
 
 @snap[east span-33]
 #### Pros:
-@box[fragment](Can maintain state even on a served file.)
+@box[bg-green text-white box-padding fragment](Can maintain state even on a served file.)
 @snapend
 
 @snap[west span-33]
 #### Cons:
-@box[fragment](Record-based, and therefore contextual.)
-@box[fragment](Still take up room in the Database.)
+@box[bg-orange text-white box-padding fragment](Record-based, and therefore contextual.)
+@box[bg-orange text-white box-padding fragment](Still take up room in the Database.)
 @snapend
 
 ---
@@ -54,17 +54,17 @@ A technique for managing your state- and configuration-related global values.
 
 @snap[west span-33]
 #### Pros:
-@box[fragment](Can be inspected and updated all in one place.)
-@box[fragment](No schema clutter!)
-@box[fragment](Self-cleaning, even on local files!)
+@box[bg-green text-white box-padding fragment](Can be inspected and updated all in one place.)
+@box[bg-green text-white box-padding fragment](No schema clutter!)
+@box[bg-green text-white box-padding fragment](Self-cleaning, even on local files!)
 @snapend
 
 @snap[east span-33]
 #### Cons:
-@box[fragment](Not really portable easily.)
-@box[fragment](Are absolutely individual things.)
-@box[fragment](Must rely on memory of strict naming and namespacing rules)
-@box[fragment](Rules are not well-defined unless the developer makes them so)
+@box[bg-orange text-white box-padding fragment](Not really portable easily.)
+@box[bg-orange text-white box-padding fragment](Are absolutely individual things.)
+@box[bg-orange text-white box-padding fragment](Must rely on memory of strict naming and namespacing rules)
+@box[bg-orange text-white box-padding fragment](Rules are not well-defined unless the developer makes them so)
 @snapend
 
 ---
@@ -84,7 +84,7 @@ A technique for managing your state- and configuration-related global values.
 
 ### A New Tool: Global Config
 
-@box[fragment](Concept: Pack all your global state and configuration data into one data object stored in _one_ global variable.)
+@box[bg-green text-white box-padding fragment](Concept: Pack all your global state and configuration data into one data object stored in _one_ global variable.)
 
-@box[fragment](Data Object: JSON)
-@box[fragment](Ease of Use: Custom Functions)
+@box[bg-orange text-white box-padding fragment](Data Object: JSON)
+@box[bg-orange text-white box-padding fragment](Ease of Use: Custom Functions)
