@@ -32,8 +32,8 @@ A technique for managing your state- and configuration-related global values.
 #### Pros:
 @ol
 - Can maintain state even on a served file.
-+++
-### Session Records
+@olend
+
 #### Cons:
 @ol
 - Record-based, and therefore contextual.
@@ -51,8 +51,7 @@ A technique for managing your state- and configuration-related global values.
 - Self-cleaning, even on local files!
   - (unlike Global Fields)
 @olend
-+++
-### Global Variables
+
 #### Cons:
 @ol
 - Not really portable easily.
@@ -60,7 +59,9 @@ A technique for managing your state- and configuration-related global values.
   - Must rely on memory of strict naming and namespacing rules
   - Rules are not well-defined unless the developer makes them so
 @olend
+
 ---
+
 ### A New Tool: Global Config
 
 @box(With the advent of several changes in recent versions, a specific variation on the Global Variables general technique becomes attractive: Global Configuration.)
