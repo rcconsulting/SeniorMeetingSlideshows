@@ -98,3 +98,7 @@ With the advent of several changes in recent versions, a specific variation on t
 @box[bg-green text-white box-padding fragment](Debug Report#Often you don't have a long time!)
 
 @box[bg-green text-white box-badding fragment](Developer Efficiency#You don't have to remember everything. It's all there!)
+
+---
+
+# Example Time
