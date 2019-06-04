@@ -18,13 +18,13 @@ A technique for managing your state- and configuration-related global values.
 ### Global Fields
 @snapend
 
-@snap[west span-33]
+@snap[west span-45]
 #### Pros:
 @box[bg-green text-white box-padding fragment](Can maintain state on a local file.)
 @box[bg-green text-white box-padding fragment](Useful for Container UI.)
 @snapend
 
-@snap[east span-33]
+@snap[east span-45]
 #### Cons:
 @box[bg-orange text-white box-padding fragment](Clutter up your database)
 @snapend
@@ -35,12 +35,12 @@ A technique for managing your state- and configuration-related global values.
 ### Session Records
 @snapend
 
-@snap[west span-33]
+@snap[west span-45]
 #### Pros:
 @box[bg-green text-white box-padding fragment](Can maintain state even on a served file.)
 @snapend
 
-@snap[east span-33]
+@snap[east span-45]
 #### Cons:
 @box[bg-orange text-white box-padding fragment](Record-based, and therefore contextual.)
 @box[bg-orange text-white box-padding fragment](Still take up room in the Database.)
@@ -52,14 +52,14 @@ A technique for managing your state- and configuration-related global values.
 ### Global Variables
 @snapend
 
-@snap[west span-33]
+@snap[west span-45]
 #### Pros:
 @box[bg-green text-white box-padding fragment](Can be inspected and updated all in one place.)
 @box[bg-green text-white box-padding fragment](No schema clutter!)
 @box[bg-green text-white box-padding fragment](Self-cleaning, even on local files!)
 @snapend
 
-@snap[east span-33]
+@snap[east span-45]
 #### Cons:
 @box[bg-orange text-white box-padding fragment](Not really portable easily.)
 @box[bg-orange text-white box-padding fragment](Are absolutely individual things.)
