@@ -35,12 +35,12 @@ A technique for managing your state- and configuration-related global values.
 ### Session Records
 @snapend
 
-@snap[east span-33]
+@snap[west span-33]
 #### Pros:
 @box[bg-green text-white box-padding fragment](Can maintain state even on a served file.)
 @snapend
 
-@snap[west span-33]
+@snap[east span-33]
 #### Cons:
 @box[bg-orange text-white box-padding fragment](Record-based, and therefore contextual.)
 @box[bg-orange text-white box-padding fragment](Still take up room in the Database.)
