@@ -37,7 +37,7 @@ A technique for managing your state- and configuration-related global values.
 #### Cons:
 @ol
 - Record-based, and therefore contextual.
-  - There are some workarounds to this.
+  @box[fragment] There are some workarounds to this.
 - Still take up room in the Database.
 @olend
 
@@ -46,18 +46,18 @@ A technique for managing your state- and configuration-related global values.
 #### Pros:
 @ol
 - Can be inspected and updated all in one place.
-  - (Data Viewer)
+  @box[fragment](Data Viewer)
 - No schema clutter!
 - Self-cleaning, even on local files!
-  - (unlike Global Fields)
+  @box[fragment](unlike Global Fields)
 @olend
 
 #### Cons:
 @ol
 - Not really portable easily.
 - Are absolutely individual things.
-  - Must rely on memory of strict naming and namespacing rules
-  - Rules are not well-defined unless the developer makes them so
+  @box[fragment](Must rely on memory of strict naming and namespacing rules)
+  @box[fragment](Rules are not well-defined unless the developer makes them so)
 @olend
 
 ---
