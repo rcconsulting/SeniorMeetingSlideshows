@@ -14,7 +14,9 @@ A technique for managing your state- and configuration-related global values.
 
 +++
 
+@snap[north span-100]
 ### Global Fields
+@snapend
 
 @snap[west span-50]
 #### Pros:
