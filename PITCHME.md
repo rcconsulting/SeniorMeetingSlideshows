@@ -90,11 +90,29 @@ With the advent of several changes in recent versions, a specific variation on t
 
 ### Use Cases
 
-@box[bg-green text-white box-padding fragment](Save & Restore State#If you need to quickly save the entire state data all at once.)
+@box[bg-green text-white fragment](Save & Restore State#If you need to quickly save the entire state data all at once.)
 
-@box[bg-green text-white box-padding fragment](Debug Report#Often you don't have a long time!)
+@box[bg-green text-white fragment](Debug Report#Often you don't have a long time!)
 
-@box[bg-green text-white box-badding fragment](Developer Efficiency#You don't have to remember everything. It's all there!)
+@box[bg-green text-white fragment](Developer Efficiency#You don't have to remember everything. It's all there!)
+
+@box[bg-pink fragment](Whatever you need it for)
+
+---
+
+### Caveats & Disclaimers
+
+@box[bg-orange text-white box-padding fragment](It's just a tool#This isn't the answer to _all_ your problems.  Maybe some of them, though.)
+
+@box[bg-orange text-white box-padding fragment](It's just layers of simple#Simple things that make life easier.  Allows for more.)
+
+---
+
+### The Custom Functions
+
+---?gist=steveAllen0112/162c3178ee61468c707b7bd120b90a4b&title=gc.set ( path ; value ; type )
+
+---?gist=steveAllen0112/eb82216c718e84070646b368055686bc&title=gc.get ( path )
 
 ---
 
