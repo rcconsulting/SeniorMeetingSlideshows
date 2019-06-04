@@ -20,6 +20,7 @@ A technique for managing your state- and configuration-related global values.
 - Can maintain state on a local file.
 - Useful for Container UI.
 @olend
+
 #### Cons:
 @ol
 - Clutter up your database
