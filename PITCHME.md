@@ -92,8 +92,6 @@ With the advent of several changes in recent versions, a specific variation on t
 
 @box[bg-green text-white fragment](Save & Restore State#If you need to quickly save the entire state data all at once.)
 
-@box[bg-green text-white fragment](Debug Report#Instead of having to remember to add new Global Variables to everywhere you need the summary report.)
-
 @box[bg-green text-white fragment](Developer Efficiency#You don't have to remember everything. It's all there!)
 
 @box[bg-pink fragment](Whatever you need it for)
