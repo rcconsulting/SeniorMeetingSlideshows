@@ -20,40 +20,30 @@ A technique for managing your state- and configuration-related global values.
 
 @snap[west span-33]
 #### Pros:
-@ol
-- Can maintain state on a local file.
-- Useful for Container UI.
-@olend
+@box[fragment](Can maintain state on a local file.)
+@box[fragment](Useful for Container UI.)
 @snapend
 
 @snap[east span-33]
 #### Cons:
-@ol
-- Clutter up your database
-@olend
+@box[fragment](Clutter up your database)
 @snapend
 
 ---
+
 @snap[north span-100]
 ### Session Records
 @snapend
 
 @snap[east span-33]
 #### Pros:
-@ol
-- Can maintain state even on a served file.
-@olend
+@box[fragment](Can maintain state even on a served file.)
 @snapend
 
 @snap[west span-33]
 #### Cons:
-@ol
-- Record-based, and therefore contextual.
-  @ul
-  -There are some workarounds to this.
-  @ulend
-- Still take up room in the Database.
-@olend
+@box[fragment](Record-based, and therefore contextual.)
+@box[fragment](Still take up room in the Database.)
 @snapend
 
 ---
@@ -64,29 +54,17 @@ A technique for managing your state- and configuration-related global values.
 
 @snap[west span-33]
 #### Pros:
-@ol
-- Can be inspected and updated all in one place.
-  @ul
-  - (Data Viewer)
-  @ulend
-- No schema clutter!
-- Self-cleaning, even on local files!
-  @ul
-  - (unlike Global Fields)
-  @ulend
-@olend
+@box[fragment](Can be inspected and updated all in one place.)
+@box[fragment](No schema clutter!)
+@box[fragment](Self-cleaning, even on local files!)
 @snapend
 
 @snap[east span-33]
 #### Cons:
-@ol
-- Not really portable easily.
-- Are absolutely individual things.
-  @ul
-  - (Must rely on memory of strict naming and namespacing rules)
-  - (Rules are not well-defined unless the developer makes them so)
-  @ulend
-@olend
+@box[fragment](Not really portable easily.)
+@box[fragment](Are absolutely individual things.)
+@box[fragment](Must rely on memory of strict naming and namespacing rules)
+@box[fragment](Rules are not well-defined unless the developer makes them so)
 @snapend
 
 ---
